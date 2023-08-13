@@ -1,0 +1,12 @@
+title: Default
+
+options:
+  changeSlug: false
+  changeTemplate: false
+  delete: false
+
+fields:
+  text:
+    label: Texte
+    type: text
+    required: false

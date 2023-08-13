@@ -20,12 +20,17 @@
       Example Payment Method
     </label>
   </p>
+
+  <?php 
+  /*
   <p>
     <label>
       <input type="radio" name="paymentMethod" value="paypal">
       PayPal
     </label>
   </p>
+  */
+  ?>
   <p>
     <button>buy</button>
   </p>
